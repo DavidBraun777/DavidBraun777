@@ -3,32 +3,30 @@
 I'm an experienced Software Engineer specializing in full-stack development, cybersecurity, and infrastructure. With a solid foundation in Java, React, AWS, and a passion for problem-solving, I enjoy tackling challenging problems and continuously learning new skills. 
 
 ## 🛠 Skills
-- **Languages**: Java, Python, JavaScript, TypeScript, SQL, Shell Scripting
+- **Languages**: Java, Python, JavaScript, TypeScript, Node.js, ReactJS, SQL, Shell Scripting
 - **Tools & Platforms**: AWS, Docker, Git, GitHub Actions, Ansible, Firebase, OpenShift
-- **Frameworks**: Spring, Spring Boot, Node.js, React
+- **Frameworks**: Spring, Spring Boot
 - **Other**: Web Accessibility, CI/CD, Agile Methodologies, MongoDB, Database Management, Computer Networking, Linux, Windows, Mac OS
 
 ## 🔭 Projects
-Here are some of the projects I've worked on:
+Here will be more of the projects I've worked on:
 
 - [Vision Inspired Fellowship Group Website](https://github.com/DavidBraun777/vifg-website): A responsive and accessible website for a non-profit organization built with React and Node.js. Features include donations and event management.
-- [Real-Time Disaster Response App](https://github.com/DavidBraun777/disaster-response-app): An award-winning web application for real-time disaster response developed using React and AWS.
-- [Educational Platform](https://github.com/DavidBraun777/educational-platform): A Java-based in-house educational platform enhancing learning resources and tools.
 
 ## 🌱 I’m currently learning ...
 I'm currently enhancing my skills in DevOps practices, advanced AWS services, and exploring new frontiers in cybersecurity.
 
 ## 👯 I’m looking to collaborate on ...
-I'm looking to collaborate on innovative projects that leverage full-stack development and cloud infrastructure to create impactful solutions.
+Innovative projects that leverage full-stack development and cloud infrastructure to create impactful solutions.
 
 ## 🤔 I’m looking for help with ...
-I'm currently seeking help with implementing advanced security measures in cloud environments.
+Implementing advanced security measures in cloud environments.
 
 ## 💬 Ask me about ...
-Feel free to ask me about full-stack development, cloud computing, Java, or any of the projects I've worked on.
+Full-stack development, cloud computing, Java, or any of the projects I've worked on.
 
 ## 📫 How to reach me
-You can reach me at [davidjbraun777@gmail.com](mailto:davidjbraun777@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/david-braun).
+You can reach me at [davidjbraun777@gmail.com](mailto:davidjbraun777@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/david-braun777/).
 
 ## 😄 Pronouns
 My pronouns are he/him.
