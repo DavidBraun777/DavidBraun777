@@ -9,7 +9,7 @@ I'm an experienced Software Engineer specializing in full-stack development, cyb
 - **Other**: Web Accessibility, CI/CD, Agile Methodologies, MongoDB, Database Management, Computer Networking, Linux, Windows, Mac OS
 
 ## 🔭 Projects
-Here will be more of the projects I've worked on:
+Here are some of the projects I've worked on:
 
 - [Vision Inspired Fellowship Group Website](https://github.com/DavidBraun777/vifg-website): A responsive and accessible website for a non-profit organization built with React and Node.js. Features include donations and event management.
 
