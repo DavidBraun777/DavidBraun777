@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hello, I'm David 👋
 
-<!--
-**DavidBraun777/DavidBraun777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced Software Engineer specializing in full-stack development, cybersecurity, and infrastructure. With a solid foundation in Java, React, AWS, and a passion for problem-solving, I enjoy tackling challenging problems and continuously learning new skills. 
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: Java, Python, JavaScript, TypeScript, SQL, Shell Scripting
+- **Tools & Platforms**: AWS, Docker, Git, GitHub Actions, Ansible, Firebase, OpenShift
+- **Frameworks**: Spring, Spring Boot, Node.js, React
+- **Other**: Web Accessibility, CI/CD, Agile Methodologies, MongoDB, Database Management, Computer Networking, Linux, Windows, Mac OS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+Here are some of the projects I've worked on:
+
+- [Vision Inspired Fellowship Group Website](https://github.com/DavidBraun777/vifg-website): A responsive and accessible website for a non-profit organization built with React and Node.js. Features include donations and event management.
+- [Real-Time Disaster Response App](https://github.com/DavidBraun777/disaster-response-app): An award-winning web application for real-time disaster response developed using React and AWS.
+- [Educational Platform](https://github.com/DavidBraun777/educational-platform): A Java-based in-house educational platform enhancing learning resources and tools.
+
+## 🌱 I’m currently learning ...
+I'm currently enhancing my skills in DevOps practices, advanced AWS services, and exploring new frontiers in cybersecurity.
+
+## 👯 I’m looking to collaborate on ...
+I'm looking to collaborate on innovative projects that leverage full-stack development and cloud infrastructure to create impactful solutions.
+
+## 🤔 I’m looking for help with ...
+I'm currently seeking help with implementing advanced security measures in cloud environments.
+
+## 💬 Ask me about ...
+Feel free to ask me about full-stack development, cloud computing, Java, or any of the projects I've worked on.
+
+## 📫 How to reach me
+You can reach me at [davidjbraun777@gmail.com](mailto:davidjbraun777@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/david-braun).
+
+## 😄 Pronouns
+My pronouns are he/him.
+
+## ⚡ Fun fact
+I am fluent in sign language and enjoy volunteering at local community events to help those in need.
+
+---
+
+### Employment History
+
+#### Securian Financial
+**Infrastructure Engineer** | November 2022 – March 2024
+- Enhanced efficiency and user experience for stakeholders through ServiceNow projects.
+- Managed and updated documentation for multiple applications, including SonarQube and SauceLabs.
+- Automated server configuration and application deployment using Ansible on AWS EC2 instances.
+
+#### General Electric Aviation (via Apex Systems)
+**Software Engineer** | October 2021 – October 2022
+- Remediated vulnerabilities in Java applications using AVA/SAST/DAST scans.
+- Enhanced security of Java-based micro-services using Spring and Spring Boot.
+- Developed a method to protect against Cross-Site Request Forgery (CSRF) attacks.
+
+#### Target (via Mind Shift)
+**Software Engineer** | June 2019 – June 2020
+- Developed a Java-based educational platform.
+- Debugged and resolved issues across 30+ code repositories.
+- Collaborated in an agile environment to ensure efficient project completion.
+
+#### Graphic Systems LLC
+**Software Developer** | July 2018 – November 2018
+- Upgraded and maintained shipment/inventory center software.
+- Processed projects using Adobe InDesign, Illustrator, and Photoshop.
+
+---
+
+### Certifications
+- AWS Cloud Practitioner, Pearson VUE, March 2024
+
+### Education
+- Bachelor of Science, Mathematics, Computer Science, Physics, Augsburg University, 2020
+
+### Extracurricular & Volunteer Activities
+- Substance Church – Manna Pack, 2020 – Present
+- Association of Computing Machinery, Vice President, 2017 – 2018
+- Society of Physics Students, Webmaster, 2014 – 2017
+- Robotics Club, 2010 – 2014
