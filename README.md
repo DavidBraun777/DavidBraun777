@@ -1,76 +1,238 @@
 # Hello, I'm David 👋
 
-I'm an experienced Software Engineer specializing in full-stack development, cybersecurity, and infrastructure. With a solid foundation in Java, React, AWS, and a passion for problem-solving, I enjoy tackling challenging problems and continuously learning new skills. 
+**AI Systems Engineer | Evaluation-First Agentic AI | RAG, Data Pipelines, Automation, and Infrastructure**
 
-## 🛠 Skills
-- **Languages**: Java, Python, JavaScript, TypeScript, Node.js, ReactJS, SQL, Shell Scripting
-- **Tools & Platforms**: AWS, Docker, Git, GitHub Actions, Ansible, Firebase, OpenShift
-- **Frameworks**: Spring, Spring Boot
-- **Other**: Web Accessibility, CI/CD, Agile Methodologies, MongoDB, Database Management, Computer Networking, Linux, Windows, Mac OS
+I build practical AI and software systems that turn messy operational data into reliable, measurable, human-accountable workflows.
 
-## 🔭 Projects
-Here are some of the projects I've worked on:
+My current focus is **evaluation-first agentic AI**: systems that retrieve grounded context, reason over it, evaluate their own outputs, and either improve, escalate, or stop when reliability is low.
 
-- [Vision Inspired Fellowship Group Website](https://github.com/DavidBraun777/vifg-website): A responsive and accessible website for a non-profit organization built with React and Node.js. Features include donations and event management.
-
-## 🌱 I’m currently learning ...
-I'm currently enhancing my skills in DevOps practices, advanced AWS services, and exploring new frontiers in cybersecurity.
-
-## 👯 I’m looking to collaborate on ...
-Innovative projects that leverage full-stack development and cloud infrastructure to create impactful solutions.
-
-## 🤔 I’m looking for help with ...
-Implementing advanced security measures in cloud environments.
-
-## 💬 Ask me about ...
-Full-stack development, cloud computing, Java, or any of the projects I've worked on.
-
-## 📫 How to reach me
-You can reach me at [davidjbraun777@gmail.com](mailto:davidjbraun777@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/david-braun777/).
-
-## 😄 Pronouns
-My pronouns are he/him.
-
-## ⚡ Fun fact
-I am fluent in sign language and enjoy volunteering at local community events to help those in need.
+I come from a full-stack, infrastructure, and cybersecurity background, with experience across Java, Python, React, AWS, automation, CI/CD, and enterprise engineering. Today, I am applying that foundation toward AI systems that can actually survive real-world use: retrieval pipelines, agent orchestration, evaluation frameworks, workflow automation, and domain-specific intelligence tools.
 
 ---
 
-### Employment History
+## 🧠 Current Thesis
 
-#### Securian Financial
-**Infrastructure Engineer** | November 2022 – March 2024
-- Enhanced efficiency and user experience for stakeholders through ServiceNow projects.
-- Managed and updated documentation for multiple applications, including SonarQube and SauceLabs.
-- Automated server configuration and application deployment using Ansible on AWS EC2 instances.
+The next wave of useful AI will not be won by demos alone.
 
-#### General Electric Aviation (via Apex Systems)
-**Software Engineer** | October 2021 – October 2022
-- Remediated vulnerabilities in Java applications using AVA/SAST/DAST scans.
-- Enhanced security of Java-based micro-services using Spring and Spring Boot.
-- Developed a method to protect against Cross-Site Request Forgery (CSRF) attacks.
+It will be won by systems that can be:
 
-#### Target (via Mind Shift)
-**Software Engineer** | June 2019 – June 2020
-- Developed a Java-based educational platform.
-- Debugged and resolved issues across 30+ code repositories.
-- Collaborated in an agile environment to ensure efficient project completion.
+- **Grounded** in real data
+- **Evaluated** with clear metrics
+- **Observable** under failure
+- **Corrected** through feedback loops
+- **Deployed** into real workflows
+- **Held accountable** to human judgment
 
-#### Graphic Systems LLC
-**Software Developer** | July 2018 – November 2018
-- Upgraded and maintained shipment/inventory center software.
-- Processed projects using Adobe InDesign, Illustrator, and Photoshop.
+That is the direction behind my current work in RAG, agentic refinement, workflow automation, and applied AI systems.
 
 ---
 
-### Certifications
-- AWS Cloud Practitioner, Pearson VUE, March 2024
+## 🔭 Current Focus Areas
 
-### Education
-- Bachelor of Science, Mathematics, Computer Science, Physics, Augsburg University, 2020
+### **RAGeATM**
+A from-scratch conversational RAG and evaluation framework focused on retrieval quality, grounded generation, failure analysis, and measurable reliability.
 
-### Extracurricular & Volunteer Activities
-- Substance Church – Manna Pack, 2020 – Present
-- Association of Computing Machinery, Vice President, 2017 – 2018
-- Society of Physics Students, Webmaster, 2014 – 2017
-- Robotics Club, 2010 – 2014
+Current interests include:
+
+- Conversational retrieval
+- Query rewriting
+- Context precision and recall
+- Faithfulness and answer relevance
+- Cost, latency, and reliability tradeoffs
+- RAG as a trust layer for downstream AI workflows
+
+### **RefinersForge / DGM-H**
+A private R&D effort exploring agentic refinement, self-improving workflows, control levers, and AI systems that can evaluate and improve their own behavior over time.
+
+The long-term goal is not simply to build agents, but to build **systems that know when to accept, retry, refine, escalate, or stop**.
+
+### **WeatherForge**
+A data engineering and AI pipeline project focused on structured weather data, Bronze/Silver/Gold data layers, reproducibility, and downstream intelligence applications.
+
+### **StormIQ**
+A vertical AI concept for weather-aware operational intelligence, risk analysis, and decision support.
+
+### **time2move.io and Client Workflow Systems**
+Applied automation and AI-assisted systems for real businesses, including lead workflows, websites, operational tooling, and measurable client outcomes.
+
+### **Urarina Data / Language Work**
+Academic and technical work involving structured data, language, research support, and applied AI/data workflows.
+
+---
+
+## 🛠 Technical Stack
+
+### AI / ML / Data
+- Python
+- RAG pipelines
+- Embeddings and vector search
+- LLM evaluation
+- Conversational AI
+- Agentic workflows
+- Data pipelines
+- SQL
+- Structured dataset design
+
+### Software Engineering
+- Java
+- JavaScript
+- TypeScript
+- Node.js
+- React
+- Spring
+- Spring Boot
+- REST APIs
+- Full-stack application development
+
+### Infrastructure / DevOps
+- AWS
+- Docker
+- GitHub Actions
+- Ansible
+- Linux
+- CI/CD
+- OpenShift
+- Firebase
+- Networking
+- NAS / remote infrastructure workflows
+
+### Security / Reliability
+- SAST / DAST
+- Vulnerability remediation
+- Secure Java applications
+- CSRF protection
+- Infrastructure hardening
+- Observability-minded system design
+
+### Business / Delivery
+- Client systems
+- Workflow automation
+- Lead-generation tooling
+- Website rebuilds
+- Technical consulting
+- Requirements translation
+- Outcome-focused engineering
+
+---
+
+## 🚀 Selected Projects
+
+### [Vision Inspired Fellowship Group Website](https://github.com/DavidBraun777/vifg-website)
+A responsive and accessible website for a nonprofit organization, built with React and Node.js. Includes event-oriented and donation-oriented functionality.
+
+### RAGeATM
+A conversational RAG evaluation project focused on building and explaining retrieval-augmented generation systems from scratch.
+
+Core themes:
+
+- Retrieval quality
+- Grounded answer generation
+- Conversational context handling
+- Evaluation metrics
+- Failure-mode analysis
+- Research-oriented documentation
+
+### WeatherForge
+A weather data pipeline and AI infrastructure project focused on structured data processing, reproducibility, and downstream intelligence.
+
+### RefinersForge / DGM-H
+A private agentic AI research and engineering effort focused on refinement loops, system control, reliability, and model/workflow improvement.
+
+### time2move.io
+A client-facing workflow and business system focused on automation, lead handling, and measurable real-world value.
+
+---
+
+## 📌 What I'm Building Toward
+
+I am working toward becoming a systems-level AI engineer who can bridge:
+
+- Research and production
+- Data pipelines and decision systems
+- LLMs and real business workflows
+- Automation and human accountability
+- Infrastructure and applied intelligence
+- Technical depth and ethical responsibility
+
+My goal is to build AI systems that are not just impressive, but **useful, reliable, measurable, and aligned with human flourishing**.
+
+---
+
+## 🧭 Engineering Principles
+
+I care about building systems that are:
+
+- **Truth-seeking** — grounded in data, evidence, and clear evaluation
+- **Human-accountable** — especially in high-stakes workflows
+- **Non-harmful** — technology should not be used to dehumanize or destroy
+- **Maintainable** — useful systems must survive beyond the first demo
+- **Measurable** — if a system cannot be evaluated, it cannot be trusted
+- **Practical** — real users, real constraints, real outcomes
+- **Faith-shaped** — my work is guided by stewardship, truth, humility, and responsibility
+
+---
+
+## 🌱 Currently Learning / Deepening
+
+- Conversational RAG evaluation
+- Agentic AI system design
+- LLM reliability and failure modes
+- AI workflow orchestration
+- Data engineering for AI systems
+- Cloud and local compute workflows
+- AI infrastructure for rapid experimentation
+- Research writing and reproducible technical artifacts
+
+---
+
+## 👯 Open to Collaborating On
+
+I'm interested in serious projects involving:
+
+- RAG systems
+- AI evaluation
+- Agentic workflows
+- Vertical AI applications
+- Workflow automation
+- Data pipelines
+- Applied AI for small businesses
+- Faith-aligned or values-driven technology
+- Human-accountable AI systems
+
+---
+
+## 💬 Ask Me About
+
+- RAG and conversational AI
+- AI system evaluation
+- Full-stack engineering
+- Java / Spring Boot
+- React / Node.js
+- AWS and infrastructure automation
+- Workflow automation
+- Secure application development
+- Turning messy operational processes into software systems
+
+---
+
+## 🎓 Background
+
+- **B.S. in Mathematics, Computer Science, and Physics** — Augsburg University
+- **Graduate work in Artificial Intelligence**
+- **AWS Certified Cloud Practitioner**
+- Former infrastructure and software engineering experience across enterprise environments, including financial services, aviation, retail, and software development.
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: [dbraun.io](https://www.dbraun.io/)
+- LinkedIn: [linkedin.com/in/david-braun777](https://www.linkedin.com/in/david-braun777/)
+- Email: [davidjbraun777@gmail.com](mailto:davidjbraun777@gmail.com)
+- GitHub: [github.com/DavidBraun777](https://github.com/DavidBraun777)
+
+---
+
+## ⚡ Personal Note
+
+I am fluent in sign language and care deeply about using technology to serve people, strengthen communities, and build systems that create real value.
