@@ -117,7 +117,7 @@ Academic and technical work involving structured data, language, research suppor
 
 ## 🚀 Selected Projects
 
-### [Vision Inspired Fellowship Group Website](https://github.com/DavidBraun777/vifg-website)
+### [Vision Inspired Fellowship Group](https://www.dbraun.io/case-studies/vifg-nonprofit-platform) [vifg.org](https://www.vifg.org/home)
 A responsive and accessible website for a nonprofit organization, built with React and Node.js. Includes event-oriented and donation-oriented functionality.
 
 ### RAGeATM
@@ -132,13 +132,13 @@ Core themes:
 - Failure-mode analysis
 - Research-oriented documentation
 
-### WeatherForge
+### [WeatherForge](https://www.dbraun.io/case-studies/weatherforge)
 A weather data pipeline and AI infrastructure project focused on structured data processing, reproducibility, and downstream intelligence.
 
-### RefinersForge / DGM-H
+### [RefinersForge / DGM-H](https://www.dbraun.io/case-studies/dgm)
 A private agentic AI research and engineering effort focused on refinement loops, system control, reliability, and model/workflow improvement.
 
-### time2move.io
+### [time2move.io](https://www.time2move.io/mn)
 A client-facing workflow and business system focused on automation, lead handling, and measurable real-world value.
 
 ---
